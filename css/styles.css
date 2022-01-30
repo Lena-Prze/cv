@@ -1,0 +1,23 @@
+body {
+  background-color: #E5CFE5;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 7px;
+  border-color: gray;
+  width: 4%;
+}
+
+h1 {
+  color: #9873B9;
+}
+h3 {
+  color: #9873B9;
+}
+.my-photo {
+border-radius: 50%;
+}
+.back {
+  width: 2%
+}
